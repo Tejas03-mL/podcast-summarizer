@@ -1,0 +1,7 @@
+project_id = "qvsortgoatazykdbmrei"
+
+[functions.summarize-video]
+verify_jwt = false
+
+[functions.super-responder]
+verify_jwt = false
