@@ -235,12 +235,7 @@ You'll need to:
 
 ---
 
-## 👨‍💻 Author & Contributor
 
-- **Author & Developer:** Ravi — [GitHub @Ravi8788](https://github.com/Ravi8788)
-- **Contributor:** Tejas — [GitHub @Tejas03-mL](https://github.com/Tejas03-mL)
-
----
 
 ## 📄 License
 
