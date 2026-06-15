@@ -233,10 +233,4 @@ You'll need to:
 - The `VITE_GROQ_API_KEY` and `VITE_GEMINI_API_KEY` are only used server-side in `server/summarize.js` — they are NOT exposed to the browser
 - The Supabase anon key (`VITE_SUPABASE_PUBLISHABLE_KEY`) is safe to expose — it's a public key protected by Row Level Security (RLS)
 
----
 
-
-
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
